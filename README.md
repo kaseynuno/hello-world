@@ -5,6 +5,4 @@ In the begginning there it was 0...
 
 Then it became 1.
 
-:eyes:
-:nose:
-:kiss:
+Then it became 2. uwu
